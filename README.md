@@ -2,7 +2,7 @@
 
 A research-oriented Python toolkit for graph clustering, community detection, and the analysis of complex networks.
 
-The repository will provide cleaned, documented, and reproducible implementations of graph-clustering algorithm developed and evaluated during my P.hD research.
+The repository will provide cleaned, documented, and reproducible implementations of graph-clustering algorithm developed and evaluated during my PhD research..
 
 ## Key Features
 
